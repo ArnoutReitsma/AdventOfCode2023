@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, Day1!");
 var lines = File.ReadLines(@"..\..\..\input.txt");
 
 Console.WriteLine(lines.Select(Num).Sum());

@@ -1,0 +1,6 @@
+
+~csharpsquid:S3776"ZRefactor this top-level file to reduce its Cognitive Complexity from 21 to the 15 allowed.(¸ÜÿÎ8ÿã”¢Ã1
+Tcsharpsquid:S1481"+Remove the unused local variable 'redGame'.( äý‡ûÿÿÿÿ8´ŠØ¢Ã1
+Ucsharpsquid:S1481",Remove the unused local variable 'blueGame'.( äý‡ûÿÿÿÿ8´ŠØ¢Ã1
+Vcsharpsquid:S1481"-Remove the unused local variable 'greenGame'.( äý‡ûÿÿÿÿ8´ŠØ¢Ã1
+Pcsharpsquid:S1481",Remove the unused local variable 'gameNumb'.(Ä­‘’8‡ìÚ¢Ã1

@@ -17,3 +17,17 @@ D
 AdventOfCode2023.sln,c\d\cd2cd28baaa2f0f1a198d6e7e12409b739b6b0c2
 @
 Day2/Day2.csproj,e\a\ea090c9a0439e7de340e9c944987c0e7950c9511
+>
+Day2/input.txt,9\a\9aa9e49c2e188dff48a17c80b0b422d7eb46ee41
+>
+Day3/input.txt,9\e\9ed6e977fb1725cdd90175cb543097b99d949c72
+?
+Day3/Program.cs,4\0\40d136853618a6dc935e1dfe12391c6a4015336d
+@
+Day3.1/input.txt,8\2\82838ac918a36cdf09ae8e28f5d9a3b0fe7bacaa
+@
+Day3.2/input.txt,8\5\8511710963e847724f8b8bbc1f13ff42418971e6
+A
+Day3.2/Program.cs,b\2\b21ed03188049b2077d93e563da4a263c98c56ff
+?
+Day4/Program.cs,3\d\3dd303ad37c9d210010e138f254573582a71fca1
