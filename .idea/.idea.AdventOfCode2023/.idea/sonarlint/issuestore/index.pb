@@ -24,10 +24,10 @@ D
 ?
 Day3/Program.cs,4\0\40d136853618a6dc935e1dfe12391c6a4015336d
 @
-Day3.1/input.txt,8\2\82838ac918a36cdf09ae8e28f5d9a3b0fe7bacaa
-@
 Day3.2/input.txt,8\5\8511710963e847724f8b8bbc1f13ff42418971e6
 A
 Day3.2/Program.cs,b\2\b21ed03188049b2077d93e563da4a263c98c56ff
 ?
 Day4/Program.cs,3\d\3dd303ad37c9d210010e138f254573582a71fca1
+>
+Day4/input.txt,8\8\88f414f5b4bb1b5af73b950b62bfb472badbead5
