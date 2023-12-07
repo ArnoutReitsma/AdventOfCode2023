@@ -35,3 +35,9 @@ A
 Day5/input.txt,8\3\8386a1cf2d27be77a26d69475ed64b590dad1ecc
 ?
 Day5/Program.cs,6\7\67d64ba20abcf8788a2dfeeb8dd5ebd34cc3acdd
+?
+Day6/Program.cs,2\b\2b7095e4534093a8df3333cafe96c0cffdac4e70
+>
+Day6/input.txt,2\c\2caad951df30c838eb3d83297cb06ee3df2dbb02
+@
+Day6/Day6.csproj,c\1\c1328570350d5b64aff38275e0b80f34d86a9369
