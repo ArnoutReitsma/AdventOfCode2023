@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 Console.WriteLine("Hello, Day3!");
 var lines = File.ReadLines(@"..\..\..\input.txt").Select(s => s.ToCharArray()).ToArray();
 int sum = 0;

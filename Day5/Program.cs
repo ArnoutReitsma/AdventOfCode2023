@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 Console.WriteLine("Hello, Day 5!");
 var lines = File.ReadLines(@"..\..\..\input.txt");
 var seeds = lines.First().Split(":")[1].Trim().Split().Select(long.Parse);

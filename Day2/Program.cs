@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 Console.WriteLine("Hello, Day2!");
 var lines = File.ReadLines(@"..\..\..\input.txt").Select(l => l.Replace(",", ""));
 int sum = 0, redGame = 12, blueGame = 14, greenGame = 13;
