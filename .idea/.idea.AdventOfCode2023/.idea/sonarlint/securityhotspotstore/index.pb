@@ -31,3 +31,7 @@ A
 Day4/Program.cs,3\d\3dd303ad37c9d210010e138f254573582a71fca1
 >
 Day4/input.txt,8\8\88f414f5b4bb1b5af73b950b62bfb472badbead5
+>
+Day5/input.txt,8\3\8386a1cf2d27be77a26d69475ed64b590dad1ecc
+?
+Day5/Program.cs,6\7\67d64ba20abcf8788a2dfeeb8dd5ebd34cc3acdd
