@@ -41,3 +41,7 @@ A
 Day6/input.txt,2\c\2caad951df30c838eb3d83297cb06ee3df2dbb02
 @
 Day6/Day6.csproj,c\1\c1328570350d5b64aff38275e0b80f34d86a9369
+?
+Day7/Program.cs,0\7\07171b9568d97748cecd95c6c8efc6f76c35498c
+>
+Day7/input.txt,d\0\d08148095c6cf1b3d84932a8e4cded5115538535
