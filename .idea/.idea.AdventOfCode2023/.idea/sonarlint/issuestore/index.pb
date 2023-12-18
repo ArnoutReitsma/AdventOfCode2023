@@ -45,3 +45,7 @@ A
 Day7/Program.cs,0\7\07171b9568d97748cecd95c6c8efc6f76c35498c
 >
 Day7/input.txt,d\0\d08148095c6cf1b3d84932a8e4cded5115538535
+?
+Day8/Program.cs,9\3\93d4f188ea134cb98206b9ec07d5ed8d30196750
+>
+Day8/input.txt,7\d\7d0748e8060d18b94131e3fcf0146ea5693ad794
