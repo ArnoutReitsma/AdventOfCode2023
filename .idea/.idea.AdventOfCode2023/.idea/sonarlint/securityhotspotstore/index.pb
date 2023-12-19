@@ -49,3 +49,7 @@ A
 Day8/Program.cs,9\3\93d4f188ea134cb98206b9ec07d5ed8d30196750
 >
 Day8/input.txt,7\d\7d0748e8060d18b94131e3fcf0146ea5693ad794
+?
+Day9/Program.cs,8\8\88faf6a30ba7b330ebd8323fc41f789a27787aea
+>
+Day9/input.txt,7\7\7708fa2ff39e9155357ef1ab74186b6e1b46ca1e

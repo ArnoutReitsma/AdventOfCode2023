@@ -14,27 +14,27 @@ foreach (var line in lines.Skip(2))
 
 var steps = 1;
 var found = false;
-// var currentEllement = map["AAA"];
-// while (!found)
-// {
-//     foreach (var instruction in instructions)
-//     {
-//         var nextEllement = instruction == 'L' ? currentEllement.Item1 : currentEllement.Item2;
-//
-//         if (nextEllement == "ZZZ")
-//         {
-//             Console.WriteLine("Steps, part 1: " + steps);
-//             found = true;
-//             break;
-//         }
-//
-//         if (map.TryGetValue(nextEllement, out var nextEllementPair))
-//         {
-//             currentEllement = nextEllementPair;
-//             steps++;
-//         }
-//     }
-// }
+var currentEllement = map["AAA"];
+while (!found)
+{
+    foreach (var instruction in instructions)
+    {
+        var nextEllement = instruction == 'L' ? currentEllement.Item1 : currentEllement.Item2;
+
+        if (nextEllement == "ZZZ")
+        {
+            Console.WriteLine("Steps, part 1: " + steps);
+            found = true;
+            break;
+        }
+
+        if (map.TryGetValue(nextEllement, out var nextEllementPair))
+        {
+            currentEllement = nextEllementPair;
+            steps++;
+        }
+    }
+}
 
 {
     var startNodes = map.Where(m => m.Key.EndsWith('A'));
